@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="enter_name_here">Enter Name Here</string>
+    <string name="welcome_to_jahaz_panda">Welcome to Jahaz Panda</string>
+    <string name="send_order">Send Order</string>
+    <string name="enter_order_here">Enter Order Here ...</string>
+    <string name="enter_address_here">Enter Address Here ...</string>
+</resources>
