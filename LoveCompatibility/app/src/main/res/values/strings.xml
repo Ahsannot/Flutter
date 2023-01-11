@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Love Compatibility</string>
+    <string name="calculate_compatibility">Calculate Compatibility</string>
+    <string name="your_name_here">Your name here ...</string>
+    <string name="your_lover_name_here">Your lover name here ...</string>
+    <string name="find_compatibility">Find Compatibility</string>
+</resources>
