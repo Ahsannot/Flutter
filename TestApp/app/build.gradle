@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.hafizmahsan53okse1216.testapp'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.hafizmahsan53okse1216.testapp"
         minSdk 16
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -19,8 +19,8 @@ android {
     buildTypes {
         release {
 
-            proguardFiles g  minifyEnabled true
-            shrinkResources trueetDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
     compileOptions {
